@@ -152,33 +152,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 3.Push to the branch (git push origin feature-branch).\
 4.Create a new Pull Request.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-### Save the File
-
-1. **After pasting the content**, save the file by clicking the save icon or pressing `Ctrl+S`.
-
-### Commit and Push the README.md File
-
-1. **Open the Shell tab**.
-
-2. **Add the new README.md file to Git**:
-
-    ```sh
-    git add README.md
-    ```
-
-3. **Commit the new file**:
-
-    ```sh
-    git commit -m "Add README.md"
-    ```
-
-4. **Push the commit to GitHub**:
-
-    ```sh
-    git push -u origin main
-    ```
-
-By following these steps, you will have successfully created and pushed the `README.md` file to your GitHub repository from Replit. If you encounter any issues or need further assistance, please let me know!
