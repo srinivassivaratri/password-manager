@@ -125,7 +125,7 @@ def generate_random_color():
 ```
 
 
-In base.html`:
+In base.html:
 ```
 <style>
     body {
@@ -147,10 +147,10 @@ Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code follows best practices and includes necessary tests.
 
 Fork the repository.
-Create a new branch (git checkout -b feature-branch). \
-Commit your changes (git commit -am 'Add new feature'). \
-Push to the branch (git push origin feature-branch).\
-Create a new Pull Request.\
+1.Create a new branch (git checkout -b feature-branch). \
+2.Commit your changes (git commit -am 'Add new feature'). \
+3.Push to the branch (git push origin feature-branch).\
+4.Create a new Pull Request.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
