@@ -122,17 +122,19 @@ If you want to customize how background colors are generated or applied, modify 
 ```python
 def generate_random_color():
     return "#{:06x}".format(random.randint(0, 0xFFFFFF))
+```
 
 
-`In base.html`:
-
+In base.html`:
+```
 <style>
     body {
         background-color: {{ session['bg_color'] }};
     }
 </style>
+```
 
-`Updating Styles`:
+Updating Styles:
 To update the styles, edit styles.css in the static folder.
 
     Security Considerations
