@@ -147,10 +147,10 @@ Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code follows best practices and includes necessary tests.
 
 Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Create a new Pull Request.
+Create a new branch (git checkout -b feature-branch). \
+Commit your changes (git commit -am 'Add new feature'). \
+Push to the branch (git push origin feature-branch).\
+Create a new Pull Request.\
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
