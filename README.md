@@ -146,7 +146,7 @@ To update the styles, edit styles.css in the static folder.
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code follows best practices and includes necessary tests.
 
-Fork the repository.
+Fork the repository. \
 1.Create a new branch (git checkout -b feature-branch). \
 2.Commit your changes (git commit -am 'Add new feature'). \
 3.Push to the branch (git push origin feature-branch).\
