@@ -83,25 +83,23 @@ Welcome to the Password Manager project! This application allows users to create
 
 ## File Structure
 
-/password-manager
-/static
-styles.css
-/templates
-base.html
-index.html
-create_vault.html
-sign_in.html
-vault_dashboard.html
-add_record.html
-app.py
-vault.py
-requirements.txt
-.replit
-README.md
+The project is organized into the following structure:
 
 
+### File Descriptions
 
-
+- **static/styles.css**: Contains the custom CSS styles for the application.
+- **templates/base.html**: The base template that other templates extend from.
+- **templates/index.html**: The homepage template.
+- **templates/create_vault.html**: Template for creating a new vault.
+- **templates/sign_in.html**: Template for signing into an existing vault.
+- **templates/vault_dashboard.html**: Dashboard template to view and manage password records.
+- **templates/add_record.html**: Template for adding a new password record.
+- **app.py**: The main application file that sets up the Flask server and routes.
+- **vault.py**: Contains the functions to handle vault operations (create, read, update, delete).
+- **requirements.txt**: Lists the Python dependencies required for the project.
+- **.replit**: Configuration file for running the project on Replit.
+- **README.md**: This file, providing an overview of the project.
 
 ## API Endpoints
 
