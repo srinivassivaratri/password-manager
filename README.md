@@ -124,7 +124,7 @@ def generate_random_color():
     return "#{:06x}".format(random.randint(0, 0xFFFFFF))
 
 
-In base.html:
+`In base.html`:
 
 <style>
     body {
@@ -132,7 +132,7 @@ In base.html:
     }
 </style>
 
-Updating Styles
+`Updating Styles`:
 To update the styles, edit styles.css in the static folder.
 
     Security Considerations
